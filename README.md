@@ -1,6 +1,4 @@
-<div style="text-align: center;">
 # Ubiquitous Surveying 暮らしを支える公共測量
-</div>
 <br><br>
 ## このページについて
 
