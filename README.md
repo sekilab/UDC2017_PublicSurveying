@@ -1,5 +1,7 @@
+<div style="text-align: center;">
 # Ubiquitous Surveying 暮らしを支える公共測量
-
+</div>
+<br><br>
 ## このページについて
 
 「Ubiquitous Surveying 暮らしを支える公共測量」は，アーバンデータチャレンジ2017データ部門に応募する目的で作成されたページです．<br>
