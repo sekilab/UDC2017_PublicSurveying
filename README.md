@@ -1,4 +1,4 @@
-# Ubiquitous Surveying ~暮らしを支える公共測量~
+# Ubiquitous Surveying 暮らしを支える公共測量
 
 ## このページについて
 
