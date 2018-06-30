@@ -94,7 +94,7 @@
 ・東京大学生産技術研究所関本研究室が加工・作成したものであること<br><br>
 例)<br>
 国土地理院技術資料「公共測量の記録　昭和/平成○○年度」(資料番号：●●)をもとに東京大学生産技術研究所関本研究室が加工したデータを利用した<br>
-URL:https://github.com/sekilab/PublicSurvey
+URL:https://github.com/sekilab/UDC2017_PublicSurveying
 <br>
 ## 免責について
 
